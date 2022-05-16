@@ -70,7 +70,7 @@ function App() {
   // console.log(laping);
 
   var contlap = {
-    border: "2px solid black",
+    // border: "2px solid black",
     width: "15%",
     margin: "auto",
     marginTop: "30px",
